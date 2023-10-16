@@ -1,1 +1,2 @@
-print("Hello Linx")
+print('hello')
+
